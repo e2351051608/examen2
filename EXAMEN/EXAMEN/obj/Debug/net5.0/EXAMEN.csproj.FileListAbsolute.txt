@@ -1,0 +1,16 @@
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\EXAMEN.exe
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\EXAMEN.deps.json
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\EXAMEN.runtimeconfig.json
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\EXAMEN.runtimeconfig.dev.json
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\EXAMEN.dll
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\ref\EXAMEN.dll
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\bin\Debug\net5.0\EXAMEN.pdb
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.csproj.AssemblyReference.cache
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.AssemblyInfoInputs.cache
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.AssemblyInfo.cs
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.csproj.CoreCompileInputs.cache
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.dll
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\ref\EXAMEN.dll
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.pdb
+C:\Users\fabia\source\repos\EXAMEN\EXAMEN\obj\Debug\net5.0\EXAMEN.genruntimeconfig.cache

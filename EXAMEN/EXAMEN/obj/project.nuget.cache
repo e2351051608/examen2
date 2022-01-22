@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4sR/F14Cnp29yqRrYDvbcICmj2jX0Q3Z9JdWBrIRlPjKSbGiy4IKWE8gAZXFJOViPV9PTD7OIlnJrsFNzCMHeA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fabia\\source\\repos\\EXAMEN\\EXAMEN\\EXAMEN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
